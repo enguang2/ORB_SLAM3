@@ -1,3 +1,8 @@
+# Self-note
+THe default behaviour of Examples is to run with out viewer thread, check out the constructor of System class in system.h, just change the boolean to turn on the viewer.
+
+
+
 # ORB-SLAM3
 
 ### V1.0, December 22th, 2021
